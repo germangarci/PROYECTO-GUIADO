@@ -1,6 +1,6 @@
 # PROYECTO-GUIADO
 ## Roles:
-German Garcia-Lider
+ +German Garcia-Lider
 Hernan Perez-Diseño
 Juan Camilo Palencia-Construcción
 Juan Esteban Matallana-Diseño
