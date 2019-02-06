@@ -8,5 +8,6 @@
 + Jason Martinez-Costrucción.
 ## Metodologıa de diseño:
 ### El diseño del servicio:
-Este en un diseño el cual nos ayudara a gestionar cambios presentados en algo ya creado o en el los planos de algo totalmente nuevo,otra de sus cualidads es que se diseña a base de la nesecidad que tenga el cliente y la capacidad que le pueda proporcionar el provedor.Expresa la importancia de generar la satisfaccion el usuario.
+Este en un diseño el cual nos ayudara a gestionar cambios presentados en algo ya creado o en el los planos de algo totalmente nuevo,otra de sus cualidads es que se diseña a base de la nesecidad que tenga el cliente y la capacidad que le pueda proporcionar el provedor.
+Expresa la importancia de generar la satisfaccion el usuario,el usuario no presentara inconformidad ya que el sieño esta encho a base de sus indicaciones por lo cual estara satisfecho del resultado.
 
