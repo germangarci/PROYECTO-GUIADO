@@ -3,3 +3,5 @@
 + Tiene una complejidad, ya que toca hablar en ese "idioma" para poder ejecutar los codigos.
 Arduino es un programa en el cual se crea el codigo, se verifica que este bien y despues de eso se sube, haciendo que esas ordenes se realizen en la placa arduino.La placa Arduino Uno cuenta con 14 entradas de las cuales 6 pueden utilizarse como salida PWM, tambien esta placa cuenta con un concector USB y un conector de alimentacion, entre otras cosas.
 + Las diferncias entre la artduino uno y la arduino mega son: primero el tamaño ya que la arduino mega es mas grande y un poco mas utilizable porque tiene mas variedad y ademas tiene mas entrdas que la arduino uno,la arduino uno tiene 6 entrdas mientras que la arduino mega tiene 14 entradas, la aarduino uno solo aguanta un voltaje de 9v ya que si se le conecta mas se sobrecalienta y explota en cambio la arduino mega aguanta 12v. se podria decir que la arduino mega es mejor que la arduino uno per no es asi sin la arduino uno no habria existido la arduino mega.
+## Placa Arduino Mega 2560
+![1](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Arduino.jpg)
