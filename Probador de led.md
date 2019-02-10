@@ -15,3 +15,6 @@ Sirve para saber la efciencia de un led,tomamos la placa de arcduino como fuente
 ![2](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Probador%20de%20Led%20Esquematico.png)
 #### Pictorico:
 ![3](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Probador%20de%20Led%20Protoboard.png)
+#### Fotos de la practica:
+![4](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/ii.jpg)
+![5](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/oo.jpg)
