@@ -6,4 +6,6 @@ Los costructores fueron los encargados de trabajar con el protoboard y la placa 
 + Arduino mega 2560
 + Jumpers
 + Resistencia de 220 Ohmnios
++ Leds
+
 
