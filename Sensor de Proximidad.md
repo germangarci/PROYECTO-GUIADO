@@ -13,5 +13,5 @@ Puede ser utilizado pára un carro cuando este vaya a estacionarse,esta es como 
 ### Esquematico.
 ![8](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/sensor%20de%20aproximidad%20esquem%C3%A1tico.png)
 ### Pictorico.
-![10](https://github.com/germangarci/https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/sensor%20de%20aproximidad%20proto.pngPROYECTO-GUIADO/blob/master/Images/sensor%20de%20aproximidad%20proto.png)
+![9](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/sensor%20de%20aproximidad%20proto.png)
 
