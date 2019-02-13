@@ -10,4 +10,5 @@ Los costructores fueron los encargados de trabajar con el protoboard y la placa 
 ## Funcionamiento:
 Se realiza para detectar el movimiento que se encuentre serca esto funcion es dada gracias al Sensor PIR para arduino es algo muy simple pero de mucha utilidad
 ## Diagramas:
-
+![7](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Sensor%20de%20Movimiento%20Protoboard.png)
+![6](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Sensor%20de%20Movimiento%20Esquematico.png)
