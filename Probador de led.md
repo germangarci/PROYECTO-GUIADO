@@ -11,9 +11,9 @@ A su vez los diseñadores estaban realizando en Fritzing los 2 tipos de diagrama
 ## Funcionamiento:
 Sirve para saber la efciencia de un led,tomamos la placa de arcduino como fuente de energia para que llegue esta al protoboard y asi funcione.
 ### Diagramas y Fotos:
-#### Esquematico:
+#### Esquematico.
 ![2](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Probador%20de%20Led%20Esquematico.png)
-#### Pictorico:
+#### Pictorico.
 ![3](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Probador%20de%20Led%20Protoboard.png)
 #### Fotos de la practica:
 ![4](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/ii.jpg)
