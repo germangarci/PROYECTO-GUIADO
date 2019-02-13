@@ -7,5 +7,7 @@ Los costructores fueron los encargados de trabajar con el protoboard y la placa 
 + Jumpers
 + Resistencia de 220 Ohmnios
 + Leds
-
+## Funcionamiento:
+Se realiza para detectar el movimiento que se encuentre serca esto funcion es dada gracias al Sensor PIR para arduino es algo muy simple pero de mucha utilidad
+## Diagramas:
 
