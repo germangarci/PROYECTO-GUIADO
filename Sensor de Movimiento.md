@@ -14,3 +14,5 @@ Se realiza para detectar el movimiento que se encuentre serca esto funcion es da
 ![7](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Sensor%20de%20Movimiento%20Protoboard.png)
 ### Pictorico.
 ![6](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Sensor%20de%20Movimiento%20Esquematico.png)
+### Practica 
+![10](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Montaje%202.jpeg)
