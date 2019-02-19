@@ -14,4 +14,6 @@ Puede ser utilizado pára un carro cuando este vaya a estacionarse,esta es como 
 ![8](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/sensor%20de%20aproximidad%20esquem%C3%A1tico.png)
 ### Pictorico.
 ![9](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/sensor%20de%20aproximidad%20proto.png)
-
+### Practica
+![12](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Montaje%203.jpeg)
+![13](https://github.com/germangarci/PROYECTO-GUIADO/blob/master/Images/Montaje%203.1.jpeg)
